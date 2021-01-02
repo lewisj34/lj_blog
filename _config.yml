@@ -22,7 +22,7 @@ title: JCL Engineering and Programming
 email: john.ives.lewis@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage for John Lewis, civil engineering masters student and aspiring programmer!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "lj_blog/" # the subpath of your site, e.g. /blog
 url: "https://lewisj34.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NULL
 github_username:  lewisj34
